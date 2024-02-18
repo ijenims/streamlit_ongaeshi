@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 # from scipy.signal import find_peaks
-import matplotlib.pyplot as plt
+from matplotlib import pyplot as plt
 
 # 画面サイズをwideに設定
 # st.set_page_config(layout='wide')
